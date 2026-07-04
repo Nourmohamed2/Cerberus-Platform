@@ -72,19 +72,11 @@ Automated Response
 
 ```
 Cerberus-Platform
-│
-├── backend/
-├── frontend/
-├── agent/
-├── detection/
-├── sandbox/
-├── database/
+
 ├── docs/
 ├── screenshots/
 ├── tests/
-├── docker-compose.yml
 ├── requirements.txt
-├── .env.example
 └── README.md
 ```
 
@@ -143,11 +135,18 @@ Automated Incident Response
 
 
 - Malware Analysis
+<img width="685" height="386" alt="WhatsApp Image 2026-07-04 at 3 04 34 PM" src="https://github.com/user-attachments/assets/8123777c-2820-4f09-91a9-349df362ff6c" />
+
 - Incident Management
-- IOC Viewer
+<img width="1205" height="652" alt="image" src="https://github.com/user-attachments/assets/08bc68cc-2dc1-4f39-aaec-dce8f60988c0" />
+
 - Canary Management
-- Reports
+<img width="935" height="593" alt="image" src="https://github.com/user-attachments/assets/3dcb54f7-7cd7-4d5b-a506-2de0e5837611" />
+
+
 - Endpoint Monitoring
+<img width="988" height="671" alt="image" src="https://github.com/user-attachments/assets/0cf559eb-13b2-4b82-b434-9315823ddd24" />
+
 
 ---
 
