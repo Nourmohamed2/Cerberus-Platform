@@ -2,7 +2,7 @@
 
 > **Multi-Threat Deception & Malware Analysis Platform**
 
-Cerberus is an AI-powered cybersecurity platform designed to proactively detect, analyze, and respond to modern cyber threats. The platform combines **deception technology**, **behavioral malware analysis**, **threat intelligence**, and **automated incident response** into a centralized Security Operations Center (SOC) dashboard.
+Cerberus is a cybersecurity platform designed to proactively detect, analyze, and respond to modern cyber threats. The platform combines **deception technology**, **behavioral malware analysis**, **threat intelligence**, and **automated incident response** into a centralized Security Operations Center (SOC) dashboard.
 
 ---
 
